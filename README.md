@@ -1,8 +1,9 @@
 # SQL-Adventure-Works-Queries
 <h3><b> Project Summary: Product Category and Sales Analysis </b></h3>
-The Entity Relationship (ER) Diagram for the tables is as follows:
+The Entity Relationship (ER) Diagram for the tables is as follows: </br>
 
-![Screenshot (1705)](https://github.com/Priy-Sharma/SQL-Adventure-Works-Queries/assets/161149109/24a44627-9013-4e86-aae3-87c9ae498357)
+
+![Screenshot (1706)](https://github.com/Priy-Sharma/SQL-Adventure-Works-Queries/assets/161149109/d247b0d5-2874-4402-9602-6f1f13c21fac)
 
 
 <p>This script delves into product categories, subcategories, sales data, and customer information within a product database. It aims to provide valuable insights for product management, marketing, and customer segmentation.</p>
