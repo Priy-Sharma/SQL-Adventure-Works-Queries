@@ -1,18 +1,10 @@
 <h2> <b> SQL Querries </b></h2>
 <ul>
-  <li> Adventure Works</li>
-  <p> For Adveture Works dataset click <a href = 'https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here </p>
-</ul>
-
-# SQL-Adventure-Works-Queries
-<h3><b> Project Summary: Product Category and Sales Analysis </b></h3>
-The Entity Relationship (ER) Diagram for the tables is as follows: </br>
-
-
-![Screenshot (1706)](https://github.com/Priy-Sharma/SQL-Adventure-Works-Queries/assets/161149109/d247b0d5-2874-4402-9602-6f1f13c21fac)
-
-
-<p>This script delves into product categories, subcategories, sales data, and customer information within a product database. It aims to provide valuable insights for product management, marketing, and customer segmentation.</p>
+  <li><b>Adventure Works </b> </li>
+  <p> For Adveture Works dataset click <a href = 'https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here </a> </br>
+  
+  The Project Description is as follows: </br>
+  <p>This script delves into product categories, subcategories, sales data, and customer information within a product database. It aims to provide valuable insights for product management, marketing, and customer segmentation.</p>
 <h3><b>Key functionalities include:</b></h3>
 <ul>
   <li>Product Category and Subcategory Analysis:</li>
@@ -38,3 +30,15 @@ Verifies the presence of null values in key columns (order date, product key, cu
 </ul>
 
 <h3><b>Overall, this script provides a comprehensive overview of product categories, subcategories, sales performance, and customer data. The insights gleaned can be used to optimize product offerings, sales strategies, and customer targeting.</b></h3>
+</br>
+
+For The SQL Project file click <a href = https://github.com/Priy-Sharma/SQL-Queries/blob/main/Important_SQL_Queries.sql> Here </a>
+</br>
+The Entity Relationship (ER) Diagram for the Adveture Works Dataset is as follows: </br>
+
+![Screenshot (1706)](https://github.com/Priy-Sharma/SQL-Adventure-Works-Queries/assets/161149109/d247b0d5-2874-4402-9602-6f1f13c21fac)
+</p>
+</ul>
+
+
+
