@@ -1,3 +1,9 @@
+<h2> <b> SQL Querries </b></h2>
+<ul>
+  <li> Adventure Works</li>
+  <p> For Adveture Works dataset click <a href = 'https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here </p>
+</ul>
+
 # SQL-Adventure-Works-Queries
 <h3><b> Project Summary: Product Category and Sales Analysis </b></h3>
 The Entity Relationship (ER) Diagram for the tables is as follows: </br>
