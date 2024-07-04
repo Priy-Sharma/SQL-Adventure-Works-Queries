@@ -3,7 +3,8 @@
   <b> For Adveture Works dataset click <a href = 'https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here </a> </b>
 </br>
 <b> For The SQL Project file click <a href = https://github.com/Priy-Sharma/SQL-Queries/blob/main/Important_SQL_Queries.sql> Here </a> </b>
-
+</br>
+</br>
 <p>
 The Project Description is as follows: </br>
 This script delves into product categories, subcategories, sales data, and customer information within a product database. It aims to provide valuable insights for product management, marketing, and customer segmentation.</p>
