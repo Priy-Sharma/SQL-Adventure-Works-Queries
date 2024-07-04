@@ -2,10 +2,11 @@
 <h3><b>Adventure Works </b> <h3>
   <b> For Adveture Works dataset click <a href = 'https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here </a> </b>
 </br>
-<b> For The SQL Project file click <a href = https://github.com/Priy-Sharma/SQL-Queries/blob/main/Important_SQL_Queries.sql> Here </a> </b>
+<b> For The SQL Project file click <a href = https://github.com/Priy-Sharma/SQL-Queries/blob/main/Important_SQL_Queries.sql> Here </a> 
   <p>
-  The Project Description is as follows: </br>
-  <p>This script delves into product categories, subcategories, sales data, and customer information within a product database. It aims to provide valuable insights for product management, marketing, and customer segmentation.</p>
+    </b>
+The Project Description is as follows: </br>
+This script delves into product categories, subcategories, sales data, and customer information within a product database. It aims to provide valuable insights for product management, marketing, and customer segmentation.
 <h3><b>Key functionalities include:</b></h3>
 <ul>
   <li>Product Category and Subcategory Analysis:</li>
