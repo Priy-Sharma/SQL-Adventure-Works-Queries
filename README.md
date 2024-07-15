@@ -6,7 +6,7 @@
 </ul>
 <p><strong>Tools:</strong> MySQL</p>
 
-<h2>Adventure Works Dataset:</h2>
+<h2>Adventure Works Project:</h2>
 <p>
     <b>For Adventure Works dataset, click 
     <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here</a>.</b>
@@ -32,9 +32,9 @@
         For complete report on Adventure Works SQL queries, click 
         <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/SQL_Report.docx'>Here</a>.
     </p>
-
+<h2>Netflix Project</h2>
 <p>
-    <b>For the Netflix dataset, click <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/Netflix.zip'>Here</a>.</b>
+    <b>For the Netflix dataset, click <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/netflix%20database.zip'>Here</a>.</b>
 </p>
 <p>The dataset contains 3 tables that encompass various aspects of the Netflix database, including movies, shows, and additional details. This comprehensive dataset is ideal for practicing complex SQL queries and data analysis.</p>
 <p>The three tables in the Netflix database are:</p>
