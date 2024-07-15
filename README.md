@@ -32,6 +32,23 @@
         For complete report on Adventure Works SQL queries, click 
         <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/SQL_Report.docx'>Here</a>.
     </p>
+
+<p>
+    <b>For the Netflix dataset, click <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/Netflix.zip'>Here</a>.</b>
+</p>
+<p>The dataset contains 3 tables that encompass various aspects of the Netflix database, including movies, shows, and additional details. This comprehensive dataset is ideal for practicing complex SQL queries and data analysis.</p>
+<p>The three tables in the Netflix database are:</p>
+<ul>
+    <li><b>best_movies</b></li>
+    <li><b>best_movies_du:</b> This table has the same columns as 'best_movies', with an additional 'duration' column.</li>
+    <li><b>best_shows</b></li>
+</ul>
+<p>
+    <b>For the SQL project file with sql queries, click 
+    <a href = 'https://github.com/Priy-Sharma/SQL-Queries/blob/main/netflix%20project.sql'>Here</a>.</b>
+</p>
+<p>The project file includes a collection of essential SQL queries that demonstrate data extraction, manipulation, and analysis techniques applied to the netflix dataset.</p>
+
 </html>
 
 
