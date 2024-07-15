@@ -1,8 +1,8 @@
 <h1>SQL Queries Projects</h1>
 <p>This folder contains two SQL projects:</p>
 <ul>
-    <li><strong>Adventure Works Dataset</strong></li>
-    <li><strong>Netflix Movie Dataset</strong></li>
+    <li><strong>Adventure Works Project</strong></li>
+    <li><strong>Netflix Movie Project</strong></li>
 </ul>
 <p><strong>Tools:</strong> MySQL</p>
 
