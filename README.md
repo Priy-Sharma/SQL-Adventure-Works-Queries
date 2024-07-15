@@ -23,6 +23,11 @@
 ![Screenshot (1706)](https://github.com/Priy-Sharma/SQL-Adventure-Works-Queries/assets/161149109/d247b0d5-2874-4402-9602-6f1f13c21fac)
 </p>
 </ul>
+</br>
+ <p>
+        <b>For complete roport on Adventure Works SQl queries, click 
+        <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/adventure%20lookup.zip'>Here</a>.</b>
+    </p>
 
 
 
