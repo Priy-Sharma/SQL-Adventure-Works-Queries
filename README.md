@@ -19,7 +19,7 @@
 <p>The project file includes a collection of essential SQL queries that demonstrate data extraction, manipulation, and analysis techniques applied to the Adventure Works dataset.</p>
 
 <p>
-    For a detailed exploration of SQL queries and insights into the Adventure Works dataset, refer to the comprehensive <b><a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/SQL_Report.docx'>SQL Report</a></b>. This report provides in-depth analysis, query breakdowns, and findings from the Adventure Works SQL projects, offering valuable learning and reference material.
+    For a detailed exploration of SQL queries and insights into the Adventure Works dataset, refer to the comprehensive <b><a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/SQL_Report.pdf'>SQL Report</a></b>. This report provides in-depth analysis, query breakdowns, and findings from the Adventure Works SQL projects, offering valuable learning and reference material.
 </p>
 
 <p>
