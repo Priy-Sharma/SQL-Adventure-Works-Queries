@@ -30,7 +30,7 @@
 </body>
     <p>
         For complete report on Adventure Works SQL queries, click 
-        <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/SQL_Report.docx'>Here</a>.
+        <a href='https://github.com/Priy-Sharma/SQL-Queries/blob/main/SQL_Report.pdf'>Here</a>.
     </p>
 <h2>Netflix Project</h2>
 <p>
